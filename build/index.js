@@ -17,7 +17,7 @@ const APIurl = 'https://icanhazdadjoke.com/';
 const myInit = {
     headers: { 'Accept': 'application/json' }
 };
-// Ejercicio 1 y 2
+// Ejercicio 1
 // get button to call next joke and add click event
 const nextJokeButton = document.getElementById('nextJokeButton');
 nextJokeButton === null || nextJokeButton === void 0 ? void 0 : nextJokeButton.addEventListener('click', nextJoke);

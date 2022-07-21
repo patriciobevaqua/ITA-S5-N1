@@ -11,7 +11,7 @@ const myInit = {
 };
 
 
-// Ejercicio 1 y 2
+// Ejercicio 1
 
 // get button to call next joke and add click event
 const nextJokeButton = document.getElementById('nextJokeButton');
